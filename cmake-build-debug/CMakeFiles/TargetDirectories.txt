@@ -1,0 +1,3 @@
+C:/Users/farka/CLionProjects/omunaa/cmake-build-debug/CMakeFiles/omunaa.dir
+C:/Users/farka/CLionProjects/omunaa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/farka/CLionProjects/omunaa/cmake-build-debug/CMakeFiles/rebuild_cache.dir

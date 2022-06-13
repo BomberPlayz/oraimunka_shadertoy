@@ -1,0 +1,14 @@
+﻿  THE_FUNC.cpp
+  main.cpp
+c:\users\guthl\source\repos\zsanialisoraimunka\zsanialisoraimunka\main.cpp(19): warning C4244: '=': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\guthl\source\repos\zsanialisoraimunka\zsanialisoraimunka\main.cpp(22): warning C4244: '=': conversion from 'size_t' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  ZSANIALISORAIMUNKA.vcxproj -> C:\Users\guthl\source\repos\ZSANIALISORAIMUNKA\x64\Debug\ZSANIALISORAIMUNKA.exe
